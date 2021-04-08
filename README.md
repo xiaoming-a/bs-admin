@@ -1,4 +1,5 @@
-# admin 我的毕业设计管理员界面
+# admin 我的毕业设计管理员界面 使用了 vue + el-ui
+
 
 ## Project setup
 ```
